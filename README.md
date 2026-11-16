@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**MurodbekAlimbekov/MurodbekAlimbekov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Murodbek 👋
 
-Here are some ideas to get you started:
+🎓 Chemical & Materials Engineering Student  
+🏛️ New Uzbekistan University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- 🔬 Interested in Computational Materials Science and Semiconductor Technology.
+- 🤖 Learning Data Science and Machine Learning.
+- 🐍 Developing my Python programming skills.
+- ⚡ Interested in materials discovery, energy storage, and advanced materials.
+- 🚀 Building projects and expanding my technical skills.
+
+### Technologies & Tools
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Git & GitHub
+
+### Currently Learning
+- Data Science & Machine Learning
+- Computational Materials Science
+- Scientific Computing
+  
+---
+*"Always learning, building, and exploring."*
